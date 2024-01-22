@@ -131,7 +131,7 @@ button:focus {
   color: #ffffff;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 825px) {
   #weatherResults .weather-info:first-child {
       flex: 0 0 calc(100% - 20px) !important;
   }
